@@ -1,0 +1,6 @@
+﻿# Elimino archivos temporales y de copia de seguridad.
+*.bak
+*.tmp
+
+# Archivos temporales de editores GNU/Linux
+*.*~
